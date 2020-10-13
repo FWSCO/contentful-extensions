@@ -1,0 +1,6 @@
+{
+  "id": "table",
+  "name": "Table",
+  "srcdoc": "./app.html",
+  "fieldTypes": ["Object"]
+}
